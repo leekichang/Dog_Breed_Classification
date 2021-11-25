@@ -5,7 +5,7 @@ DATASET_DIR = './data/'
 
 
 # %%
-os.chdir(DATASET_DIR+"Images")
+os.chdir(DATASET_DIR+"images")
 for (root, directories, files) in os.walk('./'):
     for d in directories:
         d_path = os.path.join(root, d)
@@ -13,7 +13,7 @@ for (root, directories, files) in os.walk('./'):
         os.rename(d_path, n_path)
         print(n_path)
 
-os.chdir("../Annotation/")
+os.chdir("../annotation/")
 for (root, directories, files) in os.walk('./'):
     for d in directories:
         d_path = os.path.join(root, d)
