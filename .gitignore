@@ -1,5 +1,6 @@
 data/
 Saved_model/
+__pycache__/
 
 dataset_rename.ipynb
 test.ipynb
