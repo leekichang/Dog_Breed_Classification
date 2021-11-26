@@ -2,5 +2,7 @@ data/
 Saved_model/
 __pycache__/
 
+regNet.py
+testing.ipynb
 dataset_rename.ipynb
 test.ipynb
