@@ -3,16 +3,24 @@ Saved_model/
 __pycache__/
 IIE4123/
 TransFG/
+<<<<<<< HEAD
 ae_images/
 Autoencoder/
 models/
+=======
+>>>>>>> ea0d521f0acbd37d13a3f855eff98d20d186fd25
 
 regNet.py
 testing.ipynb
 dataset_rename.ipynb
 test.ipynb
+<<<<<<< HEAD
 
 X_save.npy
 Y_save.npy
 224X_save.npy
 224Y_save.npy
+=======
+X_save.npy
+Y_save.npy
+>>>>>>> ea0d521f0acbd37d13a3f855eff98d20d186fd25
