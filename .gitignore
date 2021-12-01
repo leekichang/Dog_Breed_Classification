@@ -2,8 +2,17 @@ data/
 Saved_model/
 __pycache__/
 IIE4123/
+TransFG/
+ae_images/
+Autoencoder/
+models/
 
 regNet.py
 testing.ipynb
 dataset_rename.ipynb
 test.ipynb
+
+X_save.npy
+Y_save.npy
+224X_save.npy
+224Y_save.npy
