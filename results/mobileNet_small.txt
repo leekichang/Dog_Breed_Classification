@@ -1,0 +1,10 @@
+(epoch 001/10) Training Loss : 3.09857 | Validation Loss : 1.78889 | Validation Accuracy : 51.15 %
+(epoch 002/10) Training Loss : 2.03685 | Validation Loss : 1.75489 | Validation Accuracy : 51.89 %
+(epoch 003/10) Training Loss : 1.81888 | Validation Loss : 1.71583 | Validation Accuracy : 53.66 %
+(epoch 004/10) Training Loss : 1.70805 | Validation Loss : 1.71424 | Validation Accuracy : 54.10 %
+(epoch 005/10) Training Loss : 1.59006 | Validation Loss : 1.73184 | Validation Accuracy : 52.50 %
+(epoch 006/10) Training Loss : 1.55345 | Validation Loss : 1.75324 | Validation Accuracy : 52.75 %
+(epoch 007/10) Training Loss : 1.51072 | Validation Loss : 1.69495 | Validation Accuracy : 54.47 %
+(epoch 008/10) Training Loss : 1.46371 | Validation Loss : 1.67448 | Validation Accuracy : 55.35 %
+(epoch 009/10) Training Loss : 1.42432 | Validation Loss : 1.68063 | Validation Accuracy : 53.54 %
+(epoch 010/10) Training Loss : 1.38812 | Validation Loss : 1.69350 | Validation Accuracy : 54.13 %
